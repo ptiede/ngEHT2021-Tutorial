@@ -1,4 +1,6 @@
 [deps]
+BlackBoxOptim = "a134a8b2-14d6-55f6-9291-3336d3ab0209"
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 ROSE = "99d987ce-9a1e-4df8-bc0b-1ea019aa547b"
 ROSESoss = "b453e4c4-4bcd-41c2-b157-cea5ea685e94"
