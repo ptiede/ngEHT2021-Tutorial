@@ -13,3 +13,34 @@ using Pkg
 Pkg.add("IJulia")
 ```
 which should link to an installed version of jupyter. 
+
+
+### List of Additional Resources (To add other software packages please file an issue!)
+
+
+
+### Imaging and Modeling
+  - eht-imaging https://github.com/achael/eht-imaging
+  - Themis (soon)
+  - DPI https://github.com/HeSunPU/DPI
+  - ROSE.jl https://github.com/ptiede/ROSE.jl
+  - VIDA.jl https://github.com/ptiede/VIDA.jl
+
+
+### GRMHD simulations
+  - iharm https://github.com/afd-illinois/iharm3d 
+  - harmpi https://github.com/atchekho/harmpi 
+  - bhac https://bhac.science 
+  - Athena++ https://www.athena-astro.app 
+  - koral https://github.com/achael/koral_lite 
+### Polarized GRRT 
+  - ipole (ref) https://github.com/moscibrodzka/ipole
+  - ipole-IL (ref) https://github.com/AFD-Illinois/ipole
+  - grtrans (ref) https://github.com/jadexter/grtrans
+  - raptor (ref ) https://github.com/tbronzwaer/raptor/tree/polarization
+### Unpolarized GRRT
+  - gray (ref) https://github.com/luxsrc/gray
+  - odyssey (ref) https://github.com/hungyipu/Odyssey
+  - spectrum
+  - igrmonty (ref) https://github.com/AFD-Illinois/igrmonty
+
