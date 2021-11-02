@@ -19,9 +19,14 @@ which should link to an installed version of jupyter.
 
 
 
-### Imaging and Modeling
+### Imaging 
   - eht-imaging https://github.com/achael/eht-imaging
   - SMILI https://github.com/astrosmili/smili
+  - CASA https://casa.nrao.edu/
+  - DIFMAP ftp://ftp.astro.caltech.edu/pub/difmap/difmap.html
+  - 
+### Modeling
+  - eht-imaging (modeling module)
   - Themis (soon)
   - DPI https://github.com/HeSunPU/DPI
   - ROSE.jl https://github.com/ptiede/ROSE.jl
