@@ -21,6 +21,7 @@ which should link to an installed version of jupyter.
 
 ### Imaging and Modeling
   - eht-imaging https://github.com/achael/eht-imaging
+  - SMILI https://github.com/astrosmili/smili
   - Themis (soon)
   - DPI https://github.com/HeSunPU/DPI
   - ROSE.jl https://github.com/ptiede/ROSE.jl
