@@ -24,7 +24,10 @@ which should link to an installed version of jupyter.
   - Themis (soon)
   - DPI https://github.com/HeSunPU/DPI
   - ROSE.jl https://github.com/ptiede/ROSE.jl
+
+### Image Feature Extraction
   - VIDA.jl https://github.com/ptiede/VIDA.jl
+  - REx (eht-imaging)
 
 
 ### GRMHD simulations
