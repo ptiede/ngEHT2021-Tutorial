@@ -17,6 +17,9 @@ which should link to an installed version of jupyter.
 
 ### List of Additional Resources (To add other software packages please file an issue!)
 
+### Synthetic Data Generation
+  - SYMBA https://bitbucket.org/M_Janssen/symba/
+  - eht-imaging
 
 
 ### Imaging 
