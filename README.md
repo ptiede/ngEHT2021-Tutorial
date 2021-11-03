@@ -24,7 +24,7 @@ which should link to an installed version of jupyter.
   - SMILI https://github.com/astrosmili/smili
   - CASA https://casa.nrao.edu/
   - DIFMAP ftp://ftp.astro.caltech.edu/pub/difmap/difmap.html
-  - 
+
 ### Modeling
   - eht-imaging (modeling module)
   - Themis https://iopscience.iop.org/article/10.3847/1538-4357/ab91a4
