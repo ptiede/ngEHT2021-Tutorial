@@ -27,7 +27,7 @@ which should link to an installed version of jupyter.
   - 
 ### Modeling
   - eht-imaging (modeling module)
-  - Themis (https://iopscience.iop.org/article/10.3847/1538-4357/ab91a4)
+  - Themis https://iopscience.iop.org/article/10.3847/1538-4357/ab91a4
   - DPI https://github.com/HeSunPU/DPI
   - ROSE.jl https://github.com/ptiede/ROSE.jl
 
