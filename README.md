@@ -19,7 +19,7 @@ which should link to an installed version of jupyter.
 
 ### Synthetic Data Generation
   - SYMBA https://bitbucket.org/M_Janssen/symba/
-  - eht-imaging
+  - eht-imaging https://github.com/achael/eht-imaging
 
 
 ### Imaging 
