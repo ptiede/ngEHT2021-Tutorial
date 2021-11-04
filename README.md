@@ -18,8 +18,9 @@ which should link to an installed version of jupyter.
 ### List of Additional Resources (To add other software packages please file an issue!)
 
 ### Synthetic Data Generation
-  - SYMBA https://bitbucket.org/M_Janssen/symba/
   - eht-imaging https://github.com/achael/eht-imaging
+  - MeqSilhouette https://meqsilhouette.readthedocs.io and https://github.com/rdeane/MeqSilhouette/
+  - SYMBA https://bitbucket.org/M_Janssen/symba/
 
 
 ### Imaging 
