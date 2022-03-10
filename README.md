@@ -33,7 +33,7 @@ which should link to an installed version of jupyter.
   - eht-imaging (modeling module)
   - Themis https://iopscience.iop.org/article/10.3847/1538-4357/ab91a4
   - DPI https://github.com/HeSunPU/DPI
-  - ROSE.jl https://github.com/ptiede/ROSE.jl
+  - Comrade.jl https://github.com/ptiede/Comrade.jl
 
 ### Image Feature Extraction
   - VIDA.jl https://github.com/ptiede/VIDA.jl
